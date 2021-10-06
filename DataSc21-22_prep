@@ -1,0 +1,16 @@
+Topics to prepare:
+
+1. Coding
+  - Leet code (Easy and medium) [don't worry too much about test cases]
+  - Code some algorithms from scratch (binary search, BFS/DFS, Quick/merge sort)
+  - Practice statistical coding in python - generating random numbers, bivariate normals etc
+2. Machine learning:
+    - Simple derivations of logistic regression, SVM etc
+    - Assumptions of linear regression
+    - Practice: Decision theory notes, Andrew Ng’s lectures
+    - Python [cookbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+    - Read elements of statistical learning book
+- Deep learning:
+    - Why RNN/LSTM?
+    - Structure of an LSTM
+    - Do Neuromatch tutorials
